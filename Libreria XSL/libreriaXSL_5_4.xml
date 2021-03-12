@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="libreria5_4.xsl"?>
+<MiBibliotecaPersonal>
+    <libro>
+    <titulo>Pupila de aguila</titulo>
+    <autor>Luis Manchego</autor>
+    <editor>Fernando Costa</editor>
+    <isbn>134-2345646722</isbn>
+    <numPaginas>87</numPaginas>
+    <precio>23.30</precio>
+    </libro>
+    <libro>
+    <titulo>La gaviota</titulo>
+    <autor>Mariano Rajoy</autor>
+    <editor>Jose Aznar</editor>
+    <isbn>114-1234567890</isbn>
+    <numPaginas>110</numPaginas>
+    <precio>20</precio>
+    </libro>
+    <libro>
+    <titulo>La rosa</titulo>
+    <autor>Pedro Sanchez</autor>
+    <editor>Jose Zapatero</editor>
+    <isbn>114-0987654321</isbn>
+    <numPaginas>48</numPaginas>
+    <precio>20</precio>
+    </libro>
+    <libro>
+    <titulo>Quiero y no puedo</titulo>
+    <autor>Pedro Sanchez</autor>
+    <editor>Alfaguara</editor>
+    <isbn>114-5551654321</isbn>
+    <numPaginas>25</numPaginas>
+    <precio>10</precio>
+    </libro>
+    <libro>
+    <titulo>Volver a casa</titulo>
+    <autor>Manuel Muniz</autor>
+    <editor>Alfaguara</editor>
+    <isbn>014-0987622321</isbn>
+    <numPagina>93</numPagina>
+    <precio>8</precio>
+    </libro>
+    <libro>
+    <titulo>Hola Mundo</titulo>
+    <autor>Irene Montero</autor>
+    <editor>Santillana</editor>
+    <isbn>334-0900414321</isbn>
+    <numPaginas>89</numPaginas>
+    <precio>11</precio>
+    </libro>
+
+    <libro>
+        <titulo>Natural</titulo>
+        <autor>Alvaro Fernandez</autor>
+        <editor>Cosmico</editor>
+        <isbn>014-0987699871</isbn>
+        <numPagina>93</numPagina>
+        <precio>10.50</precio>
+        </libro>
+        <libro>
+        <titulo>Hola Luna</titulo>
+        <autor>Alvaro Fernandez</autor>
+        <editor>Santillana</editor>
+        <isbn>894-6328414321</isbn>
+        <numPaginas>43</numPaginas>
+        <precio>60.50</precio>
+        </libro>
+</MiBibliotecaPersonal>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+<listaCD>
+    <cd>
+        <titulo>Atado a una vida</titulo>
+        <artista>Antonio Sanchez</artista>
+        <cancion tiempo="120">Llora</cancion>
+        <cancion tiempo="238">Van a preguntar</cancion>
+        <cancion tiempo="203">Quieren</cancion>
+        <cancion tiempo="190">Gemelos impares</cancion>
+        <cancion tiempo="222">Leyenda lirica</cancion>
+        <sello>Boa Music</sello>
+        <anio>2006</anio>
+    </cd>
+    <cd>
+        <titulo>Las Pizzas</titulo>
+        <artista>Carlos Almansa</artista>
+        <cancion tiempo="215">Margarita</cancion>
+        <cancion tiempo="123">Cuatro quesos</cancion>
+        <cancion tiempo="221">Barbacoa</cancion>
+        <cancion tiempo="124">Carbonara</cancion>
+        <cancion tiempo="68">Vegetal</cancion>
+        <sello>Recetas Music</sello>
+        <anio>2018</anio>
+    </cd>
+    <cd>
+        <titulo>Mis Carros</titulo>
+        <artista>Manolo Escobita</artista>
+        <cancion tiempo="541">Seat ibiza</cancion>
+        <cancion tiempo="323">Ford fiesta</cancion>
+        <cancion tiempo="221">Dacia sandero</cancion>
+        <cancion tiempo="287">Peugeot 308</cancion>
+        <cancion tiempo="122">Nissan almera</cancion>
+        <sello>Boa Music</sello>
+        <anio>1999</anio>
+    </cd>
+    <cd>
+        <titulo>Dias verano</titulo>
+        <artista>Almudena Flores</artista>
+        <cancion tiempo="278">Hoy pasamos de 40 grados</cancion>
+        <cancion tiempo="154">Tormenta de verano</cancion>
+        <cancion tiempo="334">La playa</cancion>
+        <cancion tiempo="234">Sandia</cancion>
+        <cancion tiempo="360">Sol</cancion>
+        <sello>Crema Music</sello>
+        <anio>2003</anio>
+    </cd>
+    <cd>
+        <titulo>Actitud</titulo>
+        <artista>Jorge Santaella</artista>
+        <cancion tiempo="344">Siempre con hambre</cancion>
+        <cancion tiempo="421">Actidud</cancion>
+        <cancion tiempo="564">Solo, como siempre</cancion>
+        <cancion tiempo="136">Ciudad de Dios</cancion>
+        <cancion tiempo="389">Buscando</cancion>
+        <sello>Ultima linea Records</sello>
+        <anio>2004</anio>
+    </cd>
+    <cd>
+        <titulo>Mal ejemplo</titulo>
+        <artista>Luisa Perales</artista>
+        <cancion tiempo="234">Mal ejemplo</cancion>
+        <cancion tiempo="432">Constanza</cancion>
+        <cancion tiempo="278">Geminis</cancion>
+        <cancion tiempo="290">Los inmortales</cancion>
+        <cancion tiempo="199">Aglomerado</cancion>
+        <sello>Boa music</sello>
+        <anio>2011</anio>
+    </cd>
+    <cd>
+        <titulo>V de Vinietas</titulo>
+        <artista>Juan Casillas</artista>
+        <cancion tiempo="156">Entre tu y yo</cancion>
+        <cancion tiempo="229">Vinietas</cancion>
+        <cancion tiempo="216">Cierra la puerta</cancion>
+        <cancion tiempo="219">Sin estribillo</cancion>
+        <cancion tiempo="421">Cierra la puerta</cancion>
+        <sello>Crema Music</sello>
+        <anio>2008</anio>
+    </cd>
+    <cd>
+        <titulo>Vida en crisis</titulo>
+        <artista>Maria Tagle</artista>
+        <cancion tiempo="178">Escuela comercial</cancion>
+        <cancion tiempo="269">Vida en crisis</cancion>
+        <cancion tiempo="216">El limite</cancion>
+        <cancion tiempo="289">Otra semana mas</cancion>
+        <cancion tiempo="121">De corazon</cancion>
+        <sello>Crema Music</sello>
+        <anio>2012</anio>
+    </cd>
+    <cd>
+        <titulo>Kind of Red</titulo>
+        <artista>Pedro Galdeano</artista>
+        <cancion tiempo="278">Ruidos</cancion>
+        <cancion tiempo="229">Ponte la radio</cancion>
+        <cancion tiempo="226">Pagar</cancion>
+        <cancion tiempo="189">Amor real</cancion>
+        <cancion tiempo="321">Gente normal</cancion>
+        <sello>Ultima linea Records</sello>
+        <anio>2002</anio>
+    </cd>
+    <cd>
+        <titulo>Agorazein</titulo>
+        <artista>Anton Alvarez</artista>
+        <cancion tiempo="199">Juntar una vida</cancion>
+        <cancion tiempo="219">A bajo cero</cancion>
+        <cancion tiempo="210">Soniando con esto</cancion>
+        <cancion tiempo="277">Nada mas que eso</cancion>
+        <cancion tiempo="301">En ruinas como Roma</cancion>
+        <cancion tiempo="300">Cada uno en su lugar</cancion>
+        <sello>Ultima linea Records</sello>
+        <anio>2018</anio>
+    </cd>
+</listaCD>
