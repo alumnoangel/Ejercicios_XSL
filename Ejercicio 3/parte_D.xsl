@@ -2,7 +2,7 @@
 <xsl:output method="text"/>
 <xsl:template match="/">
     <xsl:for-each select="raiz/registro">
-    <xsl:sort select="fecha/when" order="ascending" data-type="text"/>
+    <xsl:sort select="fecha/@when" order="ascending" data-type="text"/>
     <xsl:for-each select="texto/p">
     <xsl:text>&#xA;</xsl:text>
     <xsl:value-of select="."/>
